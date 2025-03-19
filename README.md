@@ -1,10 +1,14 @@
-- 🐲 HELLO 
+- <h1>🐲 HELLO <h1>
 - I am currently developing a game for my technical course;
 - And i try to find some help with HTML and python, so i created a github account for my games and study !
 - For now I will make some exercise and try to improve my github account, see ya !💚
-
+<hr>
 - another informations:
+
 - 📫 How to reach me: felipecabrera303@gmail.com
+
+- 🌱 I’m currently learning GIT, Gamemaker and SQL.
+  
 
 
 <!--
