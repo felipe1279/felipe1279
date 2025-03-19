@@ -1,4 +1,11 @@
-## Hi there 👋
+- 🐲 HELLO 
+- I am currently developing a game for my technical course;
+- And i try to find some help with HTML and python, so i created a github account for my games and study !
+- For now I will make some exercise and try to improve my github account, see ya !💚
+
+- another informations:
+- 📫 How to reach me: felipecabrera303@gmail.com
+
 
 <!--
 **felipe1279/felipe1279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
